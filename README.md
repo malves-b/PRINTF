@@ -1,5 +1,8 @@
 # FT_PRINTF
 
+![](https://media.giphy.com/media/GwtfUx2P2HnvByDZdg/giphy.gif?cid=790b7611sgpudofeg50x4rnvpxxfxwu3dig8yla0zof20ksc&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+
 ![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-000000?style=for-thebadge&logo=makefile&logoColor=white)
 
